@@ -15,7 +15,9 @@ I have been fortunate to learn from a number of talented PIs throughout my scien
 
 Background
 ======
-I grew up in Washington DC, where I attended School Without Walls High School (it's a metaphor, we did in fact have walls). I went to college at the University of North Carolina, Go Heels!, where I majored in Computer Science and Biology. 
+I grew up in Washington DC, where I attended School Without Walls High School (it's a metaphor, we did in fact have walls). I went to college at the University of North Carolina, where I majored in Computer Science and Biology (go heels!). 
+
+
 
 <!-- A data-driven personal website
 ======
