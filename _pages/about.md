@@ -7,7 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I'm a scientist interested in the intersection of Genomics and Deep Learning. I am currently a PhD student working under the supervision of Dr. Michael Schatz in the Computer Science Department at Johns Hopkins Univeristy. I am grateful to be supported under the Graduate Research Fellowship Program by the National Science Foundation. 
+Hi! My name is Mahler Revsine (he/him; name pronounced like dollar). I'm a scientist interested in using Deep Learning to advance our understanding of Genomics. I am currently a PhD student working under the supervision of Dr. Michael Schatz in the Computer Science Department at Johns Hopkins Univeristy. I am grateful to be supported by the National Science Foundation's Graduate Research Fellowship Program. 
+
+Research
+======
+I've been fortunate to learn from a number of talented PIs throughout my scientific career. During my undergrad at the University of North Carolina, [Dr. Jeremy Wang](https://jwanglab.org/) introduced me to the field of bioinformatics and got me hooked on the idea of using my programming skills to solve real-world problems. During a postbac program at the National Cancer Institute at the NIH, I got to work with Drs. [Xin Wei Wang](https://ccr.cancer.gov/staff-directory/xin-wei-wang) and [Lichun Ma](https://ccr.cancer.gov/staff-directory/lichun-ma), both of whom enthusiastically guided me on a project to analyze tumor evolution during immunotherapy treatment. In my first semester of my PhD program at Johns Hopkins, I had the opportunity to rotate with [Dr. Steven Salzberg](https://salzberg-lab.org/), whose passion for discovery inspired me during a project to assess reported microbial counts in human cancer samples. Most recently, my advisor [Dr. Michael Schatz](https://schatz-lab.org/) has been a tremendous resource for genomics knowledge while also helping me grow into a deep learning researcher. 
+
+Background
+======
+I grew up in Washington DC, where I attended School Without Walls High School (it's a metaphor, we did in fact have walls). I went to college at the University of North Carolina, Go Heels!, where I majored in Computer Science and Biology. Afterwards, I completed a Postbac at the NIH, working with Drs. Xin Wei Wang and Lichun Ma
+
+Research
+======
+I've been fortunate to work with PIs who have provided invaluable mentorship over the years. I worked at the National Museum of Natural History (Smithsonian Institution) under the supervision of [Dr. Elizabeth Zimmer](https://naturalhistory.si.edu/staff/elizabeth-liz-zimmer), studying the phylogenomics of the Curry tree. I worked on clinical variant discovery and molecular dynamics with [Dr. Matthew McCoy](https://icbi.georgetown.edu/mattmccoy/p) at Georgetown University. At UC Berkeley, I was advised by [Dr. Liana Lareau](http://www.lareaulab.org), applying machine learning methods to predict translation efficiency with ribosome profiling. 
+
+For my PhD research, I work on applying compressed indexing methods to scale analysis of large pangenomes (collections of reference genome assemblies) to reduce reference bias and enable inclusive genomic experiments.
+
+Contact me
+======
+Please reach out to me about any of my current/previous research work by email: vshivak1 [at] jhu [.] edu
 
 <!-- A data-driven personal website
 ======
