@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Mahler Revsine (he/him; name pronounced like dollar). I'm a scientist interested in using Deep Learning to advance our understanding of Genomics. I am currently a PhD student working under the supervision of Dr. Michael Schatz in the Computer Science Department at Johns Hopkins Univeristy. I am grateful to be supported by the National Science Foundation's Graduate Research Fellowship Program. 
+Hi! My name is Mahler Revsine (he/him; name pronounced like "dollar"). I'm a scientist interested in using Deep Learning to advance our understanding of Genomics. I am currently a PhD student working under the supervision of Dr. Michael Schatz in the Computer Science Department at Johns Hopkins Univeristy. I am grateful to be supported by the National Science Foundation's Graduate Research Fellowship Program. 
 
 Research
 ======
