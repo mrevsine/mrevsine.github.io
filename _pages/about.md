@@ -18,7 +18,7 @@ Background
 I grew up in Washington DC, where I attended School Without Walls High School (it's a metaphor, we did in fact have walls). I went to college at the University of North Carolina, where I majored in Computer Science and Biology (go heels!). 
 
 Some of my hobbies include:
-- Basketball, both watching and playing - I'm a huge fan of the Chicago Bulls, even though I was born after Jordan left the team. I play recreationally as much as possible, and competitively in every intramural league Hopkins offers.
+- Basketball, both watching and playing - I'm a huge fan of the Chicago Bulls, even though I was born after Jordan left the team. I play recreationally as much as possible, including in Hopkins' intramural leagues.
 - Sports in general - I'm also a fan of the Chicago Bears, although this has been a net negative on my life.
 - Travel - If I'm not in another country, I'm saving up to go to one! 
 - Maps - I am constantly on the hunt for a political, south-up, equal area map projection. There's one I've seen online but it's too small. If anyone finds one, please contact me.
