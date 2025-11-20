@@ -15,17 +15,11 @@ I've been fortunate to learn from a number of talented PIs throughout my scienti
 
 Background
 ======
-I grew up in Washington DC, where I attended School Without Walls High School (it's a metaphor, we did in fact have walls). I went to college at the University of North Carolina, Go Heels!, where I majored in Computer Science and Biology. Afterwards, I completed a Postbac at the NIH, working with Drs. Xin Wei Wang and Lichun Ma
-
-Research
-======
-I've been fortunate to work with PIs who have provided invaluable mentorship over the years. I worked at the National Museum of Natural History (Smithsonian Institution) under the supervision of [Dr. Elizabeth Zimmer](https://naturalhistory.si.edu/staff/elizabeth-liz-zimmer), studying the phylogenomics of the Curry tree. I worked on clinical variant discovery and molecular dynamics with [Dr. Matthew McCoy](https://icbi.georgetown.edu/mattmccoy/p) at Georgetown University. At UC Berkeley, I was advised by [Dr. Liana Lareau](http://www.lareaulab.org), applying machine learning methods to predict translation efficiency with ribosome profiling. 
-
-For my PhD research, I work on applying compressed indexing methods to scale analysis of large pangenomes (collections of reference genome assemblies) to reduce reference bias and enable inclusive genomic experiments.
+I grew up in Washington DC, where I attended School Without Walls High School (it's a metaphor, we did in fact have walls). I went to college at the University of North Carolina, Go Heels!, where I majored in Computer Science and Biology. 
 
 Contact me
 ======
-Please reach out to me about any of my current/previous research work by email: vshivak1 [at] jhu [.] edu
+Please reach out to me about any of my current/previous research work by email: mrevsin1 [at] jhu [.] edu
 
 <!-- A data-driven personal website
 ======
