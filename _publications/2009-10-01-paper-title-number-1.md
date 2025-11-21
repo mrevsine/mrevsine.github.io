@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Acute leukemia classification using transcriptional profiles from low-cost nanopore mRNA sequencing."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Transcriptional profiling of acute leukemia samples using nanopore technology for diagnostic classification is feasible and accurate, which has the potential to improve the accuracy of cancer diagnosis in low-resource settings.'
+date: 2022-04-06
+venue: 'JCO Precision Oncology'
+paperurl: 'https://ascopubs.org/doi/10.1200/PO.21.00326'
+citation: 'Wang, J., Bhakta, N., Miller, V. A., Revsine, M., Litzow, M. R., Paietta, E., Fedoriw, Y., Roberts, K. G., Gu, Z., Mullighan, C. G., Jones, C. D., & Alexander, T. B. (2022). Acute leukemia classification using transcriptional profiles from low-cost nanopore mRNA sequencing. JCO Precision Oncology, 6, e2100326.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
