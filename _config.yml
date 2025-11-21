@@ -356,13 +356,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-nav:
-  - title: "Mahler Revsine"
-    url: /
-  - title: "Publications"
-    url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "CV"
-    url: /cv/
